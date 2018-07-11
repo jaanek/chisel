@@ -18,9 +18,9 @@ import (
 
 	socks5 "github.com/armon/go-socks5"
 	"github.com/gorilla/websocket"
-	"github.com/jpillora/chisel/share"
-	"github.com/jpillora/requestlog"
-	"github.com/jpillora/sizestr"
+	"github.com/jaanek/chisel/share"
+	"github.com/jaanek/requestlog"
+	"github.com/jaanek/sizestr"
 	"golang.org/x/crypto/ssh"
 )
 
